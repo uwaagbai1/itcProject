@@ -1,0 +1,4 @@
+fastapi~=0.115.2
+
+pydantic~=2.9.2
+cohere~=5.11.1
